@@ -1,13 +1,14 @@
 //
-//  ViewController.swift
+//  OnboardingViewController.swift
 //  Preggo
 //
 //  Created by Zachary Chandler on 10/24/20.
 //
 
+import Foundation
 import UIKit
 
-class ViewController: UIViewController {
+class OnboardingViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
